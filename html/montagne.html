@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <title> Sermon de la montagne </title>
+        <link rel="stylesheet" href="../css/style.css">
+        <script src="../javascript/xsltimport.js"> </script>
+
+        <script>
+            function loadXsltFiles(){
+                loadXsltFile('xml/sommaire.xml', 'xsl/trans_menu.xsl', 'barre_menu');
+                loadXsltFile('xml/base.xml', 'xsl/trans_mont.xsl', 'montagne');
+            }
+        </script>
+    </head>
+
+    <body onload="loadXsltFiles()">
+
+        <div id="barre_menu"> </div>
+
+        <div class="titre_page">
+        <h1> Sermon de la montagne </h1>
+        </div>
+
+        <h2> Présentation </h2>
+
+<p> Pour ce qui est du Christianisme, j’ai choisi d’utiliser le sermon sur la montagne.  </p>
+
+<p> Ce sermon de la montagne est considéré par plusieurs chrétiens comme le «sommet» de l’enseignement de Jésus PSL et un résumé des principes chrétiens, point de vue que je partage.  </p>
+
+<p> Il est d’ailleurs l’un des discours les plus long du Prophète Jésus PSL. L’histoire veut que ce discours soit prononcé en l’an 30.  </p>
+
+<p> Il est aussi intéressant de remarquer que tous ces enseignements divins eurent lieu lors d’ascension aussi bien physique que spirituelle (Jésus PSL est sur une montagne, Moïse PSL est à l’écart, Muhammad PSL vit l’ascension nocturne qui donne son nom à la Sourate 17). </p>
+
+        <h2> Étude comparative </h2>
+
+        <div id="montagne"> </div>
+
+    </body>
+</html>

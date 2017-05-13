@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<sommaire>
+    <bouton>
+        <titre> Accueil </titre>
+        <lien> ./accueil.html </lien>
+    </bouton>
+
+    <bouton>
+        <titre> Les 10 commandements </titre>
+        <lien> ./dix_commandements.html</lien>
+    </bouton>
+
+    <bouton>
+        <titre> Sermon de la montagne </titre>
+        <lien> ./montagne.html </lien>
+    </bouton>
+
+    <bouton>
+        <titre> Pour aller plus loin </titre>
+        <lien> ./plus_loin.html </lien>
+    </bouton>
+
+</sommaire>

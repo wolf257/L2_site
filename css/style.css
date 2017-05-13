@@ -1,0 +1,185 @@
+body{
+    border: solid 10px white;
+    padding: 40px;
+    /* background-image:url('../media/img/wallpaper.jpg'); */
+    background-color: brown;
+    font-family: "Comic Sans MS";
+    max-width: 900px;
+    margin: 20px auto 20px auto;
+    color: white;
+}
+
+@font-face {
+    font-family: scheherazade;
+    src: '../media/font/scheherazade-R.ttf';
+}
+
+/* ----------------------
+PARTIE MENU
+------------------------*/
+#menu{
+    margin: auto;
+    width: 100%;
+    border: 3px solid green;
+    background-color: red;
+    text-align: center;
+    font-size: 18x;
+    padding: 5px 0px 5px 0px;
+    height: 22px;
+    font-weight: bold;
+
+}
+
+#menu ul {
+    list-style-type: none; /* Removes the bullets */
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+#menu ul li {
+    display: inline; /* remove the line breaks before and after each list item, to display them on one line */
+    border-right: 1px solid white; /*Add a gray right border to all list items*/
+    float: left;
+}
+
+#menu ul li:last-child {
+    border-right: none;
+}
+
+
+#menu a {
+    color: white;
+    text-align: center;
+    padding: 0px 30px;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    background-color: black;
+}
+
+#active {
+    background-color: blue;
+}
+
+
+/* ----------------------
+PARTIE ...
+------------------------*/
+.titre_page{
+    border-bottom: double black;
+    border-left: double black;
+    border-right: double black;
+    border-width: 10px;
+    border-color: black;
+}
+
+h1{
+    padding-top: 10 px;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    padding-top: 10 px;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+/* enonce des commandements */
+h3{
+    text-align: left;
+    padding-top: 10 px;
+    margin-top: 40px;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+
+* ----------------------
+PARTIE Citations
+------------------------*/
+.ensemble{ /*Bloc contenant ar, fr, audio*/
+    /* margin: auto 75px auto 75px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid 4px blue;
+
+}
+
+/* arabic quote */
+.ar_ens{
+    width: 90%;
+    border-right: 10px double pink;
+    margin-left:auto;
+    margin-right:0;
+    padding-right: 10pt; /*espace entre le div et le texte */
+
+}
+
+.ar{
+    font-family: scheherazade;
+
+    color: yellow;
+    font-size: 50px;
+
+    text-align: right;
+
+    /*border-right: solid 5pt;
+    border-right-style: solid ;
+    border-right-color : red;*/
+}
+
+.ref{
+    font-family: scheherazade;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+
+    /*border-right: solid 5pt;
+    border-right-style: solid ;
+    border-right-color : red;*/
+}
+
+/* verse audio */
+audio{
+    display: table;
+    margin: 0 auto;
+    border: 5pt solid blue;
+}
+
+/* french quote */
+.fr_ens{
+    width: 90%;
+    border-left: 10px double black;
+    margin-left:0;
+    margin-right:auto;
+    padding-left: 10pt;
+}
+.fr{
+
+    color: yellow;
+    font-size: 20px;
+
+    text-align: justify;
+
+    /*border-left: solid 5pt;
+    border-left-style: solid ;
+    border-left-color : green;*/
+}
+
+.trad_ens{
+    width: 90%;
+    border-left: 10px double blue;
+    margin-left:0;
+    margin-right:auto;
+    padding-left: 10pt;
+}
+
+e{
+    display: block;
+}
