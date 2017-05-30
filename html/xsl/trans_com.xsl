@@ -41,9 +41,12 @@
                          <p> votre navigateur n'accepte pas les audios. </p>
                      </xsl:element>
 
-                     <a href="dix_commandements.html#top"> Retour en haut </a>
+                     <div class="linkup">
+                     <a href="dix_commandements.html#top"> Retour au sommaire </a>
+                     </div>
 
                     </div>
+
 
                     </xsl:if>
                 </xsl:for-each>

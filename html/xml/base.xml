@@ -4,8 +4,8 @@
     <couple lot="commandement">
         <ordre> 1-3 Tu n'adoreras pas un autre que Dieu </ordre>
         <francais> Tu n’adoreras pas d’autres Dieu devant ma Face.
-Tu ne te feras pas de représentations et tu ne te prosterneras pas devant elles.
-Tu ne prendras pas le nom de l’Eternel en vain. </francais>
+            Tu ne te feras pas de représentations et tu ne te prosterneras pas devant elles.
+            Tu ne prendras pas le nom de l’Eternel en vain. </francais>
         <arabe> وَقَضَى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ </arabe>
         <verse_fr> Ton Seigneur t’ordonne de n’adorer que Lui ... </verse_fr>
         <lien> ../media/audio/017023.mp3 </lien>
@@ -17,21 +17,20 @@ Tu ne prendras pas le nom de l’Eternel en vain. </francais>
         <ordre> 5. Envers les parents </ordre>
         <francais> Honores ton père et ta mère </francais>
         <arabe>  وَبِالْوَالِدَيْنِ إِحْسَانًا إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ
-كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا </arabe>
+            كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا </arabe>
         <verse_fr> ... et de traiter avec bonté ton père et ta mère. Et si l’un d’eux ou tous les deux atteignent, auprès de toi, un âge avancé, ne leur dis pas : « Fi ! » Ne leur manque pas de respect, mais adresse-leur des paroles affectueuses ! </verse_fr>
-        <lien> ../media/audio/017024.mp3 </lien>
+        <lien> ../media/audio/017023.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 23 </verse>
     </couple>
-
 
     <couple lot="commandement">
         <ordre> 6. Envers la vie. </ordre>
         <francais> Tu ne tueras point. </francais>
         <arabe> وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا يُسْرِفْ فِي الْقَتْلِ إِنَّهُ كَانَ مَنْصُورًا </arabe>
         <verse_fr> N’attentez pas à la vie de votre semblable, que Dieu a rendue sacrée, à moins d’un motif légitime.
-Pour quiconque serait injustement tué, Nous donnons à son ayant cause le droit d’exiger réparation.
-Mais que ce dernier ne commette pas d’excès en voulant venger la victime lui-même, car la loi est là pour l’assister. </verse_fr>
+            Pour quiconque serait injustement tué, Nous donnons à son ayant cause le droit d’exiger réparation.
+            Mais que ce dernier ne commette pas d’excès en voulant venger la victime lui-même, car la loi est là pour l’assister. </verse_fr>
         <lien> ../media/audio/017033.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 33 </verse>
@@ -42,7 +41,7 @@ Mais que ce dernier ne commette pas d’excès en voulant venger la victime lui-
         <francais> Tu ne commetras point d'adultère. </francais>
         <arabe> وَلَا تَقْرَبُوا الزِّنَا إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا </arabe>
         <verse_fr> N’approchez pas la fornication !
-Cela est en vérité une turpitude et une voie néfaste. </verse_fr>
+            Cela est en vérité une turpitude et une voie néfaste. </verse_fr>
         <lien> ../media/audio/017032.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 32 </verse>
@@ -53,7 +52,7 @@ Cela est en vérité une turpitude et une voie néfaste. </verse_fr>
         <francais> Tu ne voleras point. </francais>
         <arabe> وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا </arabe>
         <verse_fr> Donnez une juste mesure quand vous mesurez ; employez une balance exacte quand vous pesez.
- C’est la meilleure manière d’agir et qui aura pour vous les conséquences les plus heureuses.  </verse_fr>
+         C’est la meilleure manière d’agir et qui aura pour vous les conséquences les plus heureuses.  </verse_fr>
         <lien> ../media/audio/017035.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 35 </verse>
@@ -64,7 +63,7 @@ Cela est en vérité une turpitude et une voie néfaste. </verse_fr>
         <francais> Tu ne porteras point de faux témoignages </francais>
         <arabe> وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْئُولًا </arabe>
         <verse_fr> N’affirme rien dont tu ne sois sûr !
-Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, de la vue et du cœur. </verse_fr>
+            Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, de la vue et du cœur. </verse_fr>
         <lien> ../media/audio/017036.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 36 </verse>
@@ -88,8 +87,8 @@ Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, d
     <couple lot="montagne">
         <ordre> Rapport à la loi </ordre>
         <francais>
-17 Ne croyez pas que je sois venu pour abolir la loi ou les prophètes; je suis venu non pour abolir, mais pour accomplir.
-18 Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé.
+            17 Ne croyez pas que je sois venu pour abolir la loi ou les prophètes; je suis venu non pour abolir, mais pour accomplir.
+            18 Car, je vous le dis en vérité, tant que le ciel et la terre ne passeront point, il ne disparaîtra pas de la loi un seul iota ou un seul trait de lettre, jusqu'à ce que tout soit arrivé.
         </francais>
 
         <arabe>
@@ -104,10 +103,10 @@ Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, d
     <couple lot="montagne">
         <ordre> Commentaire sur les dix commandements </ordre>
         <francais>
-21-48 : Vous avez entendu qu'il a été dit aux anciens: ..., mais moi, je vous dis que ... .
+            21-48 : Vous avez entendu qu'il a été dit aux anciens: ..., mais moi, je vous dis que ... .
         </francais>
         <arabe>
-وَلَمَّا جَاءَ عِيسَى بِالْبَيِّنَاتِ قَالَ قَدْ جِئْتُكُمْ بِالْحِكْمَةِ وَلِأُبَيِّنَ لَكُمْ بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
+            وَلَمَّا جَاءَ عِيسَى بِالْبَيِّنَاتِ قَالَ قَدْ جِئْتُكُمْ بِالْحِكْمَةِ وَلِأُبَيِّنَ لَكُمْ بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
          </arabe>
         <verse_fr> «Lorsque Jésus se présenta aux hommes, nanti de preuves évidentes , il leur dit : «Je vous apporte la sagesse et je viens vous éclairer sur certaines questions qui vous divisent. Craignez donc Dieu et obéissez-moi !»  </verse_fr>
         <lien> ../media/audio/043063.mp3 </lien>
@@ -118,10 +117,10 @@ Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, d
     <couple lot="montagne">
         <ordre> De l'importance de la sincérité </ordre>
         <francais>
-1 Gardez-vous de pratiquer votre justice devant les hommes, pour en être vus; autrement, vous n'aurez point de récompense auprès de votre Père qui est dans les cieux. 2 Lors donc que tu fais l'aumône, ne sonne pas de la trompette devant toi, comme font les hypocrites dans les synagogues et dans les rues, afin d'être glorifiés par les hommes. Je vous le dis en vérité, ils reçoivent leur récompense.
+            1 Gardez-vous de pratiquer votre justice devant les hommes, pour en être vus; autrement, vous n'aurez point de récompense auprès de votre Père qui est dans les cieux. 2 Lors donc que tu fais l'aumône, ne sonne pas de la trompette devant toi, comme font les hypocrites dans les synagogues et dans les rues, afin d'être glorifiés par les hommes. Je vous le dis en vérité, ils reçoivent leur récompense.
         </francais>
         <arabe>
-يَا أَيُّهَا الَّذِينَ آَمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُمْ بِالْمَنِّ وَالْأَذَى كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآَخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لَا يَقْدِرُونَ عَلَى شَيْءٍ مِمَّا كَسَبُوا وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ
+            يَا أَيُّهَا الَّذِينَ آَمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُمْ بِالْمَنِّ وَالْأَذَى كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآَخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لَا يَقْدِرُونَ عَلَى شَيْءٍ مِمَّا كَسَبُوا وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ
         </arabe>
         <verse_fr> «Ô croyants ! Ne rendez pas vain le mérite de vos œuvres de charité par des gestes ou des propos désobligeants, à l’instar de celui qui fait des largesses par ostentation, sans croire ni en Dieu ni au Jugement dernier. Cet homme-là est comparable à un rocher que recouvre un peu de terre. Il suffit qu’une averse l’atteigne pour qu’il soit complètement dénudé. Et c’est ainsi que les impies ne tireront aucun profit des œuvres qu’ils avaient acquises, car Dieu ne dirige pas les infidèles.»  </verse_fr>
         <lien> ../media/audio/002264.mp3 </lien>
@@ -132,7 +131,7 @@ Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, d
     <couple lot="montagne">
         <ordre> Le Notre-Père </ordre>
         <francais>
-9 Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien; pardonne-nous nos offenses, comme nous aussi nous pardonnons à ceux qui nous ont offensés; ne nous induis pas en tentation, mais délivre-nous du malin. Car c'est à toi qu'appartiennent, dans tous les siècles, le règne, la puissance et la gloire. Amen!
+            9 Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien; pardonne-nous nos offenses, comme nous aussi nous pardonnons à ceux qui nous ont offensés; ne nous induis pas en tentation, mais délivre-nous du malin. Car c'est à toi qu'appartiennent, dans tous les siècles, le règne, la puissance et la gloire. Amen!
         </francais>
         <arabe>
             بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ .
@@ -142,24 +141,24 @@ Car il sera demandé compte à l’homme de ce qu’il aura fait de l’ouïe, d
             إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ .
             اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ .
              صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
-</arabe>
+         </arabe>
         <verse_fr> Au nom de Dieu, le Clément, le Miséricordieux.
-Louange à Dieu, le Maître de l’Univers,
- Le Clément, le Miséricordieux,
-Le Souverain du Jour du Jugement dernier !
-C’est Toi que nous adorons ! C’est Toi dont nous implorons le secours !
-Guide-nous dans la Voie droite ;
-La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont mérité Ta colère ni celle des égarés !
-  </verse_fr>
-        <lien> ../media/audio/001.mp3 </lien>
-        <surat> surat 01 </surat>
-        <verse> dans sa totalité </verse>
+            Louange à Dieu, le Maître de l’Univers,
+        Le Clément, le Miséricordieux,
+        Le Souverain du Jour du Jugement dernier !
+        C’est Toi que nous adorons ! C’est Toi dont nous implorons le secours !
+        Guide-nous dans la Voie droite ;
+        La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont mérité Ta colère ni celle des égarés !
+          </verse_fr>
+            <lien> ../media/audio/001.mp3 </lien>
+            <surat> surat 01 </surat>
+            <verse> dans sa totalité </verse>
     </couple>
 
     <couple lot="montagne">
         <ordre> La passion pour les richesses </ordre>
         <francais>
-19 Ne vous amassez pas des trésors sur la terre, où la teigne et la rouille détruisent, et où les voleurs percent et dérobent; mais amassez-vous des trésors dans le ciel, où la teigne et la rouille ne détruisent point, et où les voleurs ne percent ni ne dérobent.
+            19 Ne vous amassez pas des trésors sur la terre, où la teigne et la rouille détruisent, et où les voleurs percent et dérobent; mais amassez-vous des trésors dans le ciel, où la teigne et la rouille ne détruisent point, et où les voleurs ne percent ni ne dérobent.
         </francais>
         <arabe> أَلْهَاكُمُ التَّكَاثُرُ ﴿1﴾ حَتَّى زُرْتُمُ الْمَقَابِرَ </arabe>
         <verse_fr> « La passion des richesses ne cessera de vous dominer que le jour où vous serez, dans vos tombes, enterrés.»
@@ -172,10 +171,10 @@ La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont méri
     <couple lot="montagne">
         <ordre> Dieu prendra soin de vous </ordre>
         <francais>
-25 C'est pourquoi je vous dis: Ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps, de quoi vous serez vêtus. La vie n'est-elle pas plus que la nourriture, et le corps plus que le vêtement? Regardez les oiseaux du ciel: ils ne sèment ni ne moissonnent, et ils n'amassent rien dans des greniers; et votre Père céleste les nourrit. Ne valez-vous pas beaucoup plus qu'eux?
+            25 C'est pourquoi je vous dis: Ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps, de quoi vous serez vêtus. La vie n'est-elle pas plus que la nourriture, et le corps plus que le vêtement? Regardez les oiseaux du ciel: ils ne sèment ni ne moissonnent, et ils n'amassent rien dans des greniers; et votre Père céleste les nourrit. Ne valez-vous pas beaucoup plus qu'eux?
         </francais>
         <arabe>
-وَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ السَّمِيعُ الْعَلِيمُ
+            وَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ السَّمِيعُ الْعَلِيمُ
          </arabe>
         <verse_fr> « Que d’animaux sont inaptes à se procurer leur nourriture ! Et, cependant, Dieu pourvoit à leur subsistance et à la vôtre. Dieu entend tout et sait tout.»  </verse_fr>
         <lien> ../media/audio/029060.mp3 </lien>
@@ -186,13 +185,13 @@ La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont méri
     <couple lot="montagne">
         <ordre> À chaque jour suffit sa peine </ordre>
         <francais>
-33 Cherchez premièrement le royaume et la justice de Dieu; et toutes ces choses vous seront données par-dessus. Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même. A chaque jour suffit sa peine. 
+            33 Cherchez premièrement le royaume et la justice de Dieu; et toutes ces choses vous seront données par-dessus. Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même. A chaque jour suffit sa peine. 
         </francais>
         <arabe>
-إِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ إِفْكًا إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَابْتَغُوا عِنْدَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُ إِلَيْهِ تُرْجَعُونَ
+            إِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ إِفْكًا إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَابْتَغُوا عِنْدَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُ إِلَيْهِ تُرْجَعُونَ
          </arabe>
         <verse_fr> « En réalité, vous n’adorez en dehors de Dieu que des idoles et vous n’inventez que des mensonges ! Les divinités que vous adorez en dehors de Dieu n’ont aucun moyen pour vous assurer votre subsistance. Recherchez-la plutôt auprès de Dieu ! Adorez-Le ! Louez-Le ! C’est vers Lui que vous ferez retour. »
-  </verse_fr>
+          </verse_fr>
         <lien> ../media/audio/029017.mp3 </lien>
         <surat> surat 29 </surat>
         <verse> verset 17 </verse>
@@ -201,14 +200,14 @@ La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont méri
     <couple lot="montagne">
         <ordre> Ne pas juger l'autre </ordre>
         <francais>
-1 Ne jugez point, afin que vous ne soyez point jugés. Car on vous jugera du jugement dont vous jugez, et l'on vous mesurera avec la mesure dont vous mesurez. Pourquoi vois-tu la paille qui est dans l'oeil de ton frère, et n'aperçois-tu pas la poutre qui est dans ton oeil?
+            1 Ne jugez point, afin que vous ne soyez point jugés. Car on vous jugera du jugement dont vous jugez, et l'on vous mesurera avec la mesure dont vous mesurez. Pourquoi vois-tu la paille qui est dans l'oeil de ton frère, et n'aperçois-tu pas la poutre qui est dans ton oeil?
         </francais>
         <arabe>
-يَا أَيُّهَا الَّذِينَ آَمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ
+            يَا أَيُّهَا الَّذِينَ آَمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ
          </arabe>
         <verse_fr>
-«Ô croyants ! Évitez de trop conjecturer sur les autres, car il est des conjectures qui sont de vrais péchés. Ne vous épiez pas les uns les autres ! Ne médisez pas les uns des autres ! Lequel d’entre vous voudrait manger la chair de son frère mort? Non ! Vous en auriez horreur ! Craignez donc Dieu ! Il est Indulgent et Miséricordieux.»
-  </verse_fr>
+            «Ô croyants ! Évitez de trop conjecturer sur les autres, car il est des conjectures qui sont de vrais péchés. Ne vous épiez pas les uns les autres ! Ne médisez pas les uns des autres ! Lequel d’entre vous voudrait manger la chair de son frère mort? Non ! Vous en auriez horreur ! Craignez donc Dieu ! Il est Indulgent et Miséricordieux.»
+          </verse_fr>
         <lien> ../media/audio/049012.mp3 </lien>
         <surat> surat 49 </surat>
         <verse> versets 12 </verse>
@@ -217,9 +216,9 @@ La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont méri
     <couple lot="montagne">
         <ordre> Exhortation à la prière </ordre>
         <francais>
-7 Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous ouvrira. Car quiconque demande reçoit, celui qui cherche trouve, et l'on ouvre à celui qui frappe.    </francais>
+            7 Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous ouvrira. Car quiconque demande reçoit, celui qui cherche trouve, et l'on ouvre à celui qui frappe.    </francais>
         <arabe>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ
+            وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ
          </arabe>
         <verse_fr>
             « Si Mes serviteurs t’interrogent à Mon sujet, qu’ils sachent que Je suis tout près d’eux, toujours disposé à exaucer les vœux de celui qui M’invoque. Qu’ils répondent donc à Mon appel et qu’ils aient foi en Moi, afin qu’ils soient guidés vers la Voie du salut.»
@@ -232,10 +231,10 @@ La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont méri
     <couple lot="montagne">
         <ordre> Mise en garde contre les faux prophètes </ordre>
         <francais>
-15 Gardez-vous des faux prophètes. Ils viennent à vous en vêtements de brebis, mais au dedans ce sont des loups ravisseurs. Vous les reconnaîtrez à leurs fruits. Cueille-t-on des raisins sur des épines, ou des figues sur des chardons ?
-    </francais>
+            15 Gardez-vous des faux prophètes. Ils viennent à vous en vêtements de brebis, mais au dedans ce sont des loups ravisseurs. Vous les reconnaîtrez à leurs fruits. Cueille-t-on des raisins sur des épines, ou des figues sur des chardons ?
+        </francais>
         <arabe>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
+            الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
          </arabe>
         <verse_fr> « Aujourd’hui, J’ai amené votre religion à son point de perfection ; Je vous ai accordé Ma grâce tout entière et J’ai agréé l’islam pour vous comme religion»
         </verse_fr>
@@ -244,17 +243,16 @@ La voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont méri
         <verse> verset 03 </verse>
     </couple>
 
-
     <couple lot="montagne">
         <ordre> De la foi et du salut </ordre>
         <francais>
-21 Ceux qui me disent: Seigneur, Seigneur! n'entreront pas tous dans le royaume des cieux, mais celui-là seul qui fait la volonté de mon Père qui est dans les cieux. Plusieurs me diront en ce jour-là: Seigneur, Seigneur, n'avons-nous pas prophétisé par ton nom? n'avons-nous pas chassé des démons par ton nom? et n'avons-nous pas fait beaucoup de miracles par ton nom?
+            21 Ceux qui me disent: Seigneur, Seigneur! n'entreront pas tous dans le royaume des cieux, mais celui-là seul qui fait la volonté de mon Père qui est dans les cieux. Plusieurs me diront en ce jour-là: Seigneur, Seigneur, n'avons-nous pas prophétisé par ton nom? n'avons-nous pas chassé des démons par ton nom? et n'avons-nous pas fait beaucoup de miracles par ton nom?
         </francais>
         <arabe>
-قُلْ أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَا حُمِّلْتُمْ وَإِنْ تُطِيعُوهُ تَهْتَدُوا وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ
+            قُلْ أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَا حُمِّلْتُمْ وَإِنْ تُطِيعُوهُ تَهْتَدُوا وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ
          </arabe>
         <verse_fr>
-« Dis-leur : «Obéissez à Dieu, obéissez au Prophète !» S’ils refusent d’obéir, le Prophète aura, au moins, assumé sa responsabilité. À vous d’assumer la vôtre ! Si vous lui obéissez, vous serez bien guidés. La mission du Prophète consiste uniquement à vous transmettre le Message en toute clarté.»
+            « Dis-leur : «Obéissez à Dieu, obéissez au Prophète !» S’ils refusent d’obéir, le Prophète aura, au moins, assumé sa responsabilité. À vous d’assumer la vôtre ! Si vous lui obéissez, vous serez bien guidés. La mission du Prophète consiste uniquement à vous transmettre le Message en toute clarté.»
         </verse_fr>
         <lien> ../media/audio/024054.mp3 </lien>
         <surat> surat 24 </surat>
