@@ -2,68 +2,150 @@
 <sommaire>
     <bouton>
         <titre> Accueil </titre>
-        <lien> ./accueil.html </lien>
+        <lien> ./index.html </lien>
     </bouton>
 
-    <bouton>
+    <bouton lot="commandement">
         <titre> Les 10 commandements </titre>
         <lien> ./dix_commandements.html</lien>
-        <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 1 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 2 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 3 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 5 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 6 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 7 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 8 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 9 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
-          <sousbouton>
-              <titre> Commandement numéro 10 </titre>
-              <lien> </lien>
-          </sousbouton>
-          <!------------>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> aaa </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> bbb </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> ccc </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> ddd </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> eee </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> fff </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> ggg </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> hhh </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> iii </titre>
+                <lien> # </lien>
+            </sousbouton>
+
+            <!-- ### # ### -->
+            <sousbouton>
+                <titre> jjj </titre>
+                <lien> # </lien>
+            </sousbouton>
     </bouton>
 
-    <bouton>
+    <bouton lot="montagne">
         <titre> Sermon de la montagne </titre>
         <lien> ./montagne.html </lien>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> aaa </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> bbb </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> ccc </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> ddd </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> eee </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> fff </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> ggg </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> hhh </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> iii </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> jjj </titre>
+            <lien> # </lien>
+        </sousbouton>
+
+        <!-- ### # ### -->
+        <sousbouton>
+            <titre> kkk </titre>
+            <lien> # </lien>
+        </sousbouton>
     </bouton>
 
     <bouton>
         <titre> Pour aller plus loin </titre>
         <lien> ./plus_loin.html </lien>
     </bouton>
+
+<!-- ### # ### -->
 
 </sommaire>

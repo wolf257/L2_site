@@ -44,7 +44,7 @@
                      <div class="linkup">
                      <a href="montagne.html#top"> Retour au sommaire </a>
                      </div>
-                     
+
                     </div>
 
                     </xsl:if>

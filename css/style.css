@@ -17,52 +17,93 @@ body{
 /* ----------------------
 PARTIE MENU
 ------------------------*/
-#menu{
-    margin: auto;
-    width: 100%;
-    border: 3px solid green;
-    background-color: red;
-    text-align: center;
-    font-size: 18x;
-    padding: 5px 0px 5px 0px;
-    height: 22px;
-    font-weight: bold;
-
+#menu-demo2, #menu-demo2 ul{
+padding:0;
+margin:0;
+list-style:none;
+text-align:center;
 }
 
-#menu ul {
-    list-style-type: none; /* Removes the bullets */
-    margin: 0;
-    padding: 0;
-    float: left;
+#menu-demo2 li{
+display:inline-block;
+position:relative;
+border-radius:8px 8px 0 0;
 }
 
-#menu ul li {
-    display: inline; /* remove the line breaks before and after each list item, to display them on one line */
-    border-right: 1px solid white; /*Add a gray right border to all list items*/
-    float: left;
+#menu-demo2 ul li{
+display:inherit;
+border-radius:0;
 }
 
-#menu ul li:last-child {
-    border-right: none;
+#menu-demo2 ul li:hover{
+border-radius:0;
+}
+#menu-demo2 ul li:last-child{
+border-radius:0 0 8px 8px;
+}
+
+#menu-demo2 ul{
+position:absolute;
+z-index: 1000;
+max-height:0;
+left: 0;
+right: 0;
+overflow:hidden;
+}
+
+#menu-demo2 li:hover ul{
+    /* Longueur du déroulant */
+max-height:30em;
+}
+
+/* background du menu de base */
+#menu-demo2 li:nth-child(odd){
+background-color: #729EBF;
+}
+#menu-demo2 li:nth-child(even){
+background-color: #F6AD1A;
 }
 
 
-#menu a {
-    color: white;
-    text-align: center;
-    padding: 0px 30px;
-    text-decoration: none;
+/* background des liens sous menus */
+
+#menu-demo2 li:nth-child(odd) li{
+background:#333A40;
+}
+#menu-demo2 li:nth-child(even) li{
+background:#9F391A;
 }
 
-#menu a:hover {
-    background-color: black;
+
+/* background des liens menus et sous menus au survol */
+#menu-demo2 li:nth-child(odd):hover, #menu-demo2 li:nth-child(odd) li:hover{
+background:#729EBF;
+}
+#menu-demo2 li:nth-child(even):hover, #menu-demo2 li:nth-child(even) li:hover{
+background:#F6AD1A;
 }
 
-#active {
-    background-color: blue;
+/* les a href */
+    /*Bloc menu */
+#menu-demo2 a{
+    text-decoration:none;
+    display:block;
+    padding:15px 42px;
+    color:#fff;
+    font-family:arial;
+}
+    /* Bloc sous-menu */
+#menu-demo2 ul a{
+    padding:5px 0;
+}
+#menu-demo2 li:hover li a{
+    color:#fff;
+    text-transform:inherit;
 }
 
+#menu-demo2 li:hover a, #menu-demo2 li li:hover a{
+    color:#000;
+}
 
 /* ----------------------
 PARTIE ...
