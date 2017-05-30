@@ -247,12 +247,14 @@ PARTIE Liens
     display: inline-block;
 }
 
+.linkdown a:link, a:visited{
+    background-color: red;
+}
 /* ----------------------
 PARTIE Table
 ------------------------*/
 table{
 }
-
 
 th{
     text-align: center;

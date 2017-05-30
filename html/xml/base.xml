@@ -11,6 +11,7 @@
         <lien> ../media/audio/017023.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 23 </verse>
+        <linkdown>1</linkdown>
     </couple>
 
     <couple lot="commandement">
@@ -22,6 +23,7 @@
         <lien> ../media/audio/017023.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 23 </verse>
+        <linkdown>2</linkdown>
     </couple>
 
     <couple lot="commandement">
@@ -34,6 +36,7 @@
         <lien> ../media/audio/017033.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 33 </verse>
+        <linkdown>3</linkdown>
     </couple>
 
     <couple lot="commandement">
@@ -45,6 +48,7 @@
         <lien> ../media/audio/017032.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 32 </verse>
+        <linkdown>4</linkdown>
     </couple>
 
     <couple lot="commandement">
@@ -56,6 +60,7 @@
         <lien> ../media/audio/017035.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 35 </verse>
+        <linkdown>5</linkdown>
     </couple>
 
     <couple lot="commandement">
@@ -67,6 +72,7 @@
         <lien> ../media/audio/017036.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> verset 36 </verse>
+        <linkdown>6</linkdown>
     </couple>
 
     <couple lot="commandement">
@@ -77,6 +83,7 @@
         <lien> ../media/audio/017030.mp3 </lien>
         <surat> surat 17 </surat>
         <verse> versets 30 et 34 </verse>
+        <linkdown>7</linkdown>
     </couple>
 
 
@@ -98,6 +105,8 @@
         <lien> ../media/audio/005046.mp3 </lien>
         <surat> surat 05 </surat>
         <verse> verset 46 </verse>
+        <linkdown>1</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -112,6 +121,8 @@
         <lien> ../media/audio/043063.mp3 </lien>
         <surat> surat 43 </surat>
         <verse> verset 63 </verse>
+        <linkdown>2</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -126,6 +137,8 @@
         <lien> ../media/audio/002264.mp3 </lien>
         <surat> surat 02 </surat>
         <verse> verset 264 </verse>
+        <linkdown>3</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -153,6 +166,8 @@
             <lien> ../media/audio/001.mp3 </lien>
             <surat> surat 01 </surat>
             <verse> dans sa totalité </verse>
+            <linkdown>4</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -166,6 +181,8 @@
         <lien> ../media/audio/102.mp3 </lien>
         <surat> surat 102 </surat>
         <verse> dans sa totalité </verse>
+        <linkdown>5</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -180,6 +197,8 @@
         <lien> ../media/audio/029060.mp3 </lien>
         <surat> surat 29 </surat>
         <verse> verset 60 </verse>
+        <linkdown>6</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -195,6 +214,7 @@
         <lien> ../media/audio/029017.mp3 </lien>
         <surat> surat 29 </surat>
         <verse> verset 17 </verse>
+        <linkdown>7</linkdown>
     </couple>
 
     <couple lot="montagne">
@@ -211,6 +231,8 @@
         <lien> ../media/audio/049012.mp3 </lien>
         <surat> surat 49 </surat>
         <verse> versets 12 </verse>
+        <linkdown>8</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -226,6 +248,7 @@
         <lien> ../media/audio/002186.mp3 </lien>
         <surat> surat 02 </surat>
         <verse> verset 186 </verse>
+        <linkdown>9</linkdown>
     </couple>
 
     <couple lot="montagne">
@@ -241,6 +264,8 @@
         <lien> ../media/audio/005003.mp3 </lien>
         <surat> surat 05 </surat>
         <verse> verset 03 </verse>
+        <linkdown>10</linkdown>
+
     </couple>
 
     <couple lot="montagne">
@@ -257,6 +282,8 @@
         <lien> ../media/audio/024054.mp3 </lien>
         <surat> surat 24 </surat>
         <verse> verset 54 </verse>
+        <linkdown>11</linkdown>
+
     </couple>
 
 

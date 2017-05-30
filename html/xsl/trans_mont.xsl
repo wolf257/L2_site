@@ -8,7 +8,19 @@
                     <xsl:if test="@lot = 'montagne' ">
 
                      <div class="ensemble">
-                         <h3> <xsl:value-of select="ordre"/> </h3>
+
+                         <xsl:variable name="nb" select="linkdown" />
+
+                         <h3>
+                             <xsl:element name="a">
+                             <xsl:attribute name="name">
+                                 <xsl:value-of select="$nb"/>
+                             </xsl:attribute>
+                                 <xsl:value-of select="ordre"/>
+                             </xsl:element>
+                          </h3>
+
+
 
                          <div class="fr_ens">
                              <p style="text-decoration:underline"> Énoncé du commandement : </p>

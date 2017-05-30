@@ -11,63 +11,46 @@
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> aaa </titre>
-                <lien> # </lien>
+                <titre> sur Dieu </titre>
+                <lien> dix_commandements.html#1 </lien>
             </sousbouton>
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> bbb </titre>
-                <lien> # </lien>
+                <titre> sur les parents </titre>
+                <lien> dix_commandements.html#2 </lien>
             </sousbouton>
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> ccc </titre>
-                <lien> # </lien>
+                <titre> sur la vie </titre>
+                <lien> dix_commandements.html#3 </lien>
             </sousbouton>
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> ddd </titre>
-                <lien> # </lien>
+                <titre> sur l'adultère </titre>
+                <lien> dix_commandements.html#4 </lien>
             </sousbouton>
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> eee </titre>
-                <lien> # </lien>
+                <titre> sur l'adultère </titre>
+                <lien> dix_commandements.html#5 </lien>
             </sousbouton>
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> fff </titre>
-                <lien> # </lien>
+                <titre> sur le témoignage </titre>
+                <lien> dix_commandements.html#6 </lien>
             </sousbouton>
 
             <!-- ### # ### -->
             <sousbouton>
-                <titre> ggg </titre>
-                <lien> # </lien>
+                <titre> sur la jalousie </titre>
+                <lien> dix_commandements.html#7 </lien>
             </sousbouton>
 
-            <!-- ### # ### -->
-            <sousbouton>
-                <titre> hhh </titre>
-                <lien> # </lien>
-            </sousbouton>
-
-            <!-- ### # ### -->
-            <sousbouton>
-                <titre> iii </titre>
-                <lien> # </lien>
-            </sousbouton>
-
-            <!-- ### # ### -->
-            <sousbouton>
-                <titre> jjj </titre>
-                <lien> # </lien>
-            </sousbouton>
     </bouton>
 
     <bouton lot="montagne">
@@ -76,68 +59,68 @@
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> aaa </titre>
-            <lien> # </lien>
+            <titre> Rapport à la loi </titre>
+            <lien> montagne.html#1 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> bbb </titre>
-            <lien> # </lien>
+            <titre> Sur les dix commandements </titre>
+            <lien> montagne.html#2 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> ccc </titre>
-            <lien> # </lien>
+            <titre> De la sincérité </titre>
+            <lien> montagne.html#3 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> ddd </titre>
-            <lien> # </lien>
+            <titre> Le Notre-Père </titre>
+            <lien> montagne.html#4 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> eee </titre>
-            <lien> # </lien>
+            <titre> La passion pour les richesses </titre>
+            <lien> montagne.html#5 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> fff </titre>
-            <lien> # </lien>
+            <titre> Dieu prendra soin de vous </titre>
+            <lien> montagne.html#6 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> ggg </titre>
-            <lien> # </lien>
+            <titre> À chaque jour suffit sa peine </titre>
+            <lien> montagne.html#7 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> hhh </titre>
-            <lien> # </lien>
+            <titre> La poutre </titre>
+            <lien> montagne.html#8 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> iii </titre>
-            <lien> # </lien>
+            <titre> De la prière </titre>
+            <lien> montagne.html#9 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> jjj </titre>
-            <lien> # </lien>
+            <titre> Les faux prophètes </titre>
+            <lien> montagne.html#10 </lien>
         </sousbouton>
 
         <!-- ### # ### -->
         <sousbouton>
-            <titre> kkk </titre>
-            <lien> # </lien>
+            <titre> De la foi et du salut </titre>
+            <lien> montagne.html#11 </lien>
         </sousbouton>
     </bouton>
 
