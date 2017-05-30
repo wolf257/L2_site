@@ -1,7 +1,7 @@
 body{
     border: solid 10px white;
     padding: 40px;
-    /* background-image:url('../media/img/wallpaper.jpg'); */
+    background-image:url('../media/img/wallpaper.jpg');
     background-color: brown;
     font-family: "Comic Sans MS";
     max-width: 900px;
@@ -17,32 +17,32 @@ body{
 /* ----------------------
 PARTIE MENU
 ------------------------*/
-#menu-demo2, #menu-demo2 ul{
+#menu, #menu ul{
 padding:0;
 margin:0;
 list-style:none;
 text-align:center;
 }
 
-#menu-demo2 li{
+#menu li{
 display:inline-block;
 position:relative;
 border-radius:8px 8px 0 0;
 }
 
-#menu-demo2 ul li{
+#menu ul li{
 display:inherit;
 border-radius:0;
 }
 
-#menu-demo2 ul li:hover{
+#menu ul li:hover{
 border-radius:0;
 }
-#menu-demo2 ul li:last-child{
+#menu ul li:last-child{
 border-radius:0 0 8px 8px;
 }
 
-#menu-demo2 ul{
+#menu ul{
 position:absolute;
 z-index: 1000;
 max-height:0;
@@ -51,41 +51,41 @@ right: 0;
 overflow:hidden;
 }
 
-#menu-demo2 li:hover ul{
+#menu li:hover ul{
     /* Longueur du déroulant */
 max-height:30em;
 }
 
 /* background du menu de base */
-#menu-demo2 li:nth-child(odd){
-background-color: #729EBF;
+#menu li:nth-child(odd){
+background-color: #6192b8;
 }
-#menu-demo2 li:nth-child(even){
-background-color: #F6AD1A;
+#menu li:nth-child(even){
+background-color: #f5a70a;
 }
 
 
 /* background des liens sous menus */
 
-#menu-demo2 li:nth-child(odd) li{
+#menu li:nth-child(odd) li{
 background:#333A40;
 }
-#menu-demo2 li:nth-child(even) li{
+#menu li:nth-child(even) li{
 background:#9F391A;
 }
 
 
 /* background des liens menus et sous menus au survol */
-#menu-demo2 li:nth-child(odd):hover, #menu-demo2 li:nth-child(odd) li:hover{
-background:#729EBF;
+#menu li:nth-child(odd):hover, #menu li:nth-child(odd) li:hover{
+background:#6192b8;
 }
-#menu-demo2 li:nth-child(even):hover, #menu-demo2 li:nth-child(even) li:hover{
-background:#F6AD1A;
+#menu li:nth-child(even):hover, #menu li:nth-child(even) li:hover{
+background:#f5a70a;
 }
 
 /* les a href */
     /*Bloc menu */
-#menu-demo2 a{
+#menu a{
     text-decoration:none;
     display:block;
     padding:15px 42px;
@@ -93,15 +93,15 @@ background:#F6AD1A;
     font-family:arial;
 }
     /* Bloc sous-menu */
-#menu-demo2 ul a{
+#menu ul a{
     padding:5px 0;
 }
-#menu-demo2 li:hover li a{
+#menu li:hover li a{
     color:#fff;
     text-transform:inherit;
 }
 
-#menu-demo2 li:hover a, #menu-demo2 li li:hover a{
+#menu li:hover a, #menu li li:hover a{
     color:#000;
 }
 
@@ -109,11 +109,12 @@ background:#F6AD1A;
 PARTIE ...
 ------------------------*/
 .titre_page{
-    border-bottom: double black;
-    border-left: double black;
-    border-right: double black;
+    border-bottom: double white;
+    border-left: double white;
+    border-right: double white;
     border-width: 10px;
-    border-color: black;
+    border-color: white;
+    border-radius: 15px;
 }
 
 h1{
@@ -150,18 +151,20 @@ PARTIE Citations
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    border: solid 4px red;
+    border: solid 4px white;
     margin-bottom: 10px;
-
+    border-radius: 25px;
 }
 
 /* arabic quote */
 .ar_ens{
     width: 90%;
-    border-right: 10px double pink;
+    border-right: 10px double yellow;
+    border-left: 10px double yellow;
     margin-left:auto;
     margin-right:0;
     padding-right: 10pt; /*espace entre le div et le texte */
+    border-radius: 25px;
 
 }
 
@@ -172,10 +175,6 @@ PARTIE Citations
     font-size: 50px;
 
     text-align: right;
-
-    /*border-right: solid 5pt;
-    border-right-style: solid ;
-    border-right-color : red;*/
 }
 
 .ref{
@@ -183,45 +182,52 @@ PARTIE Citations
     color: yellow;
     font-size: 20px;
     text-align: center;
-
-    /*border-right: solid 5pt;
-    border-right-style: solid ;
-    border-right-color : red;*/
 }
 
 /* verse audio */
 audio{
     display: table;
     margin: 0 auto;
-    border: 5pt solid blue;
+    border: 1pt solid grey;
 }
 
 /* french quote */
 .fr_ens{
     width: 90%;
-    border-left: 10px double black;
+    border: 10px double blue;
+
     margin-left:0;
     margin-right:auto;
     padding-left: 10pt;
+    padding-right: 10pt;
+    border-radius: 25px;
 }
-.fr{
+
+.fr_jc{
+
+    color: #00ccff;
+    font-size: 20px;
+
+    text-align: justify;
+}
+
+.fr_cr{
 
     color: yellow;
     font-size: 20px;
 
     text-align: justify;
-
-    /*border-left: solid 5pt;
-    border-left-style: solid ;
-    border-left-color : green;*/
 }
 
 .trad_ens{
+    color: white;
     width: 90%;
-    border-left: 10px double blue;
+    border: 10px double yellow;
     margin-left:0;
     margin-right:auto;
     padding-left: 10pt;
+    padding-right: 10pt;
+    border-radius: 25px;
 }
 
 /* ----------------------
@@ -245,10 +251,13 @@ PARTIE Liens
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    border-radius: 20px;
+
 }
 
 .linkdown a:link, a:visited{
-    background-color: red;
+    background-color: #8cff66;
+    border-radius: 20px;
 }
 /* ----------------------
 PARTIE Table
@@ -258,11 +267,13 @@ table{
 
 th{
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid white;
+    border-radius: 20px;
 }
 td{
     text-align: left;
     padding-left: 15px;
-    border: 1px solid black;
+    border: 1px solid white;
+    border-radius: 20px;
 
 }

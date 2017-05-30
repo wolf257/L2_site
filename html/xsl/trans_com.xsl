@@ -23,7 +23,7 @@
 
                          <div class="fr_ens">
                              <p style="text-decoration:underline"> Énoncé du commandement : </p>
-                             <p class="fr"> <xsl:value-of select="francais"/> </p>
+                             <p class="fr_jc"> <xsl:value-of select="francais"/> </p>
                          </div>
 
                          <div class="ar_ens">
@@ -32,7 +32,7 @@
 
                          <div class="trad_ens">
                              <p style="text-decoration:underline"> Traduction du verset : </p>
-                             <p class="fr"> <xsl:value-of select="verse_fr"/> </p>
+                             <p class="fr_cr"> <xsl:value-of select="verse_fr"/> </p>
                          </div>
 
                          <div class="ref">

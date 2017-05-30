@@ -24,7 +24,7 @@
 
                          <div class="fr_ens">
                              <p style="text-decoration:underline"> Énoncé du commandement : </p>
-                             <p class="fr"> <xsl:value-of select="francais"/> </p>
+                             <p class="fr_jc"> <xsl:value-of select="francais"/> </p>
                          </div>
 
                          <div class="ar_ens">
@@ -33,29 +33,30 @@
 
                          <div class="trad_ens">
                              <p style="text-decoration:underline"> Traduction du verset : </p>
-                             <p class="fr"> <xsl:value-of select="verse_fr"/> </p>
+                             <p class="fr_cr"> <xsl:value-of select="verse_fr"/> </p>
                          </div>
 
                          <div class="ref">
                              <xsl:value-of select="surat"/>
                              <xsl:value-of select="verse"/>
                          </div>
-                      <xsl:element name="audio">
-                             <xsl:attribute name="controls">
-                                     <p> controls </p>
-                             </xsl:attribute>
-                             <xsl:attribute name="src">
-                                     <xsl:value-of select="lien"/>
-                             </xsl:attribute>
-                             <xsl:attribute name="type">
-                                     <p> audio/mpeg </p>
-                             </xsl:attribute>
-                         <p> votre navigateur n'accepte pas les audios. </p>
-                     </xsl:element>
 
-                     <div class="linkup">
-                     <a href="montagne.html#top"> Retour au sommaire </a>
-                     </div>
+                          <xsl:element name="audio">
+                                 <xsl:attribute name="controls">
+                                         <p> controls </p>
+                                 </xsl:attribute>
+                                 <xsl:attribute name="src">
+                                         <xsl:value-of select="lien"/>
+                                 </xsl:attribute>
+                                 <xsl:attribute name="type">
+                                         <p> audio/mpeg </p>
+                                 </xsl:attribute>
+                             <p> votre navigateur n'accepte pas les audios. </p>
+                         </xsl:element>
+
+                         <div class="linkup">
+                         <a href="montagne.html#top"> Retour au sommaire </a>
+                         </div>
 
                     </div>
 

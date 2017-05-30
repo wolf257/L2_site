@@ -4,7 +4,7 @@
      <xsl:template match="/sommaire">
 
 <!--         <div id="menu"> -->
-             <ul id="menu-demo2">
+             <ul id="menu">
                  <xsl:for-each select="bouton">
                      <xsl:choose>
 
