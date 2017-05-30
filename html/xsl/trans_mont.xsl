@@ -41,6 +41,7 @@
                          <p> votre navigateur n'accepte pas les audios. </p>
                      </xsl:element>
 
+                     <a href="montagne.html#top"> Retour en haut </a>
 
                     </div>
 
